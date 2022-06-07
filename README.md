@@ -1,4 +1,4 @@
-# dell_pred_prj 
+# dell_pred_prj python bs4
 
 Phase 1 : Scraping the data from Dell website
 
