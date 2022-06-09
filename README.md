@@ -1,6 +1,6 @@
 # dell_pred_prj python 
 
-Phase 1 : Scraping the data from Dell website python bs4
+Phase 1 : Scraping the data from Dell website // python bs4
 
 ## Learning Ressources : 
 
